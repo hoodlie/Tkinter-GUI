@@ -48,3 +48,25 @@ Update 1.2 (23/12/2018)
 - Added next gen concept of refreshing pages after leaving them
     - Very complex :)
 
+Update 1.3 (23/12/2018)
+
+- Added a lot of stuff but can't be bothered to document; tl;dr:
+- Added Products page where you can buy items
+    - In products page you can also delete items and resupply existing items
+    - Items added to the stocks.txt through suppply page will also be displayed here
+- Added Model Page class to systematically generate pages for individual items (very advanced)
+    - This is done in products page while generating it to maximize efficiency
+    - Added delete button to delete existing stocks (using my very sophisticated algorithm) :)
+    - Added Buy button to buy items 
+    - Added button to update existing stock
+- Added cart page where all your orders are placed
+    - This includes the checkout function which finalizes all orders and updates stocks
+        - This means that it decreases the amount of stocks depending on
+        how much you buy (very advanced)
+ 
+
+
+
+
+
+
