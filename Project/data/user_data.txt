@@ -1,3 +1,0 @@
-a, b
-hugo, password
-bobby, passwrod123

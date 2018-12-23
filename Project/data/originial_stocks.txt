@@ -1,9 +1,0 @@
-Name, Amount in stock, Price, Description
-Black Fountain Pen, 300, 15.00, Very nice
-Red Fountain Pen, 250, 14.20, Absolutely best thing in the thing that is the best thing
-Nice Cozy Bed, 300, 16.20, Very cozy indeed
-Cool YoYo, 3000, 15.00, This is a pretty cool Yyoy
-Stolen TV, 1, 300.00, I stole this and I'm selling this :)
-Hoodie, 25, 35.40, Very stylish hand made to very high quality. Only available in black
-Even newer TV, 123, 1.00, Very cheap
-Stolen Remote, 1, 15, Don't know what this is for but you should buy it :
