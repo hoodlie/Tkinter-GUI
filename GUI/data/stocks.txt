@@ -1,0 +1,4 @@
+Name, Amount in stock, Price
+Black Fountain Pen, 1000, 15.10
+Red Fountain Pen, 250, 14.20
+Nice Cozy Bed, 300, 16.20
