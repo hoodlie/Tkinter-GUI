@@ -8,16 +8,17 @@ I used these resources for an introduction to tkinter and object oriented progra
 <h1> Introduction to Project </h1>
 
 <h2> Contents of project </h2>
+
 <ul>
-  <a href="Starting page"><li>Starting page</li></a>
-  <a href="Login page"><li>Login page</li></a>
-  <a href="Register page"><li>Register page</li></a>
-  <a href="Product page"><li>Product page</li></a>
-  <a href="Supplier page"><li>Supplier page</li></a>
-  <a href="Cart page"><li>Cart page</li></a>
-  <a href="Menu page"><li>Menu page</li></a>
-  <a href="Model Item page"><li>Model Item page</li></a>
-  <a href="changelog"><li>Changelog</li></a>
+  <a href="#Starting page"><li>Starting page</li></a>
+  <a href="#Login page"><li>Login page</li></a>
+  <a href="#Register page"><li>Register page</li></a>
+  <a href="#Product page"><li>Product page</li></a>
+  <a href="#Supplier page"><li>Supplier page</li></a>
+  <a href="#Cart page"><li>Cart page</li></a>
+  <a href="#Menu page"><li>Menu page</li></a>
+  <a href="#Model Item page"><li>Model Item page</li></a>
+  <a href="#changelog"><li>Changelog</li></a>
 </ul>
 
 <h3 id="#Starting page"> Starting page </h3>
