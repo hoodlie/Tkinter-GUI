@@ -10,13 +10,13 @@ I used these resources for an introduction to tkinter and object oriented progra
 <h2> Contents of project </h2>
 <ul>
   <a href="#Starting page"><li>Starting page</li></a>
-  <a href="#Login page"<li>Login page</li></a>
-  <a href="#Register page"<li>Register page</li></a>
-  <a href="#Product page"<li>Product page</li></a>
-  <a href="#Supplier page"<li>Supplier page</li></a>
-  <a href="#Cart page"<li>Cart page</li></a>
-  <a href="#Menu page"<li>Menu page</li></a>
-  <a href="#Model Item page"<li>Model Item page</li></a>
+  <a href="#Login page"><li>Login page</li></a>
+  <a href="#Register page"><li>Register page</li></a>
+  <a href="#Product page"><li>Product page</li></a>
+  <a href="#Supplier page"><li>Supplier page</li></a>
+  <a href="#Cart page"><li>Cart page</li></a>
+  <a href="#Menu page"><li>Menu page</li></a>
+  <a href="#Model Item page"><li>Model Item page</li></a>
   <a href="#changelog"><li>Changelog</li></a>
 </ul>
 
@@ -44,11 +44,11 @@ or you don't enter anything you will get a popup message and won't be registered
 Essentially main page where you can see products. You can also click on them to see their procedurally created page where you buy, delete or resupply them. 
 
 <h3 id="#Supplier Page"> Supplier page </h3>
-<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/supplier_page.PNG">
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/supply_page.PNG">
 Where you add products. If you dont enter anything, don't enter 1 field, description too short, name too long, etc... then you get a popup error.
 
 <h3 id="#Cart Page"> Cart page </h3>
-<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/supplier_page.PNG">
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/cart_page.PNG">
 Where you finalize orders and subtract amount bought to current stock in
 
 <h3 id="#Model Item Page"> Model Item page </h3>
