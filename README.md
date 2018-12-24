@@ -10,27 +10,52 @@ I used these resources for an introduction to tkinter and object oriented progra
 <h2> Contents of project </h2>
 <ul>
   <a href="#Starting page"><li>Starting page</li></a>
-  <li>Login page</li>
-  <li>Register page</li>
-  <li>Product page</li>
-  <li>Supplier page</li>
-  <li>Cart page</li>
-  <li>Starting page</li>
-  <li>Menu page</li>
-  <li>Model Item page</li>
-<ul>
+  <a href="#Login page"<li>Login page</li></a>
+  <a href="#Register page"<li>Register page</li></a>
+  <a href="#Product page"<li>Product page</li></a>
+  <a href="#Supplier page"<li>Supplier page</li></a>
+  <a href="#Cart page"<li>Cart page</li></a>
+  <a href="#Menu page"<li>Menu page</li></a>
+  <a href="#Model Item page"<li>Model Item page</li></a>
+  <a href="#changelog"><li>Changelog</li></a>
+</ul>
 
-<h2 id="#Starting page"> Starting page </h2>
-<img src="screenshots/starting_page">
-<img src="screenshots/login_page">
-<img src="screenshots/register_page">
-<img src="screenshots/products_page">
-<img src="screenshots/supplier_page">
-<img src="screenshots/cart_page">
-<img src="screenshots/menu_page">
-<img src="screenshots/mode_page">
+<h3 id="#Starting page"> Starting page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/starting_page.PNG">
+The starting page includes two buttons which lead to the login page and register page respectively.
+I will make it look more aesthetically pleasing later :)
 
-<h1> Changelog </h1>
+<h3 id="#Login Page"> Login page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/login_page.PNG">
+Login page where you can enter the loging things and an algorithm will check against existing users and passwords
+in user_data.txt; if you don't enter anything or the things are wrong you will not proceed and will receive a pop-up
+message saying that you couldn't login.
+
+<h3 id="#Register Page"> Register page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/register_page.PNG">
+Register button will write the things in user_data unless the username already exists. If the username already exists
+or you don't enter anything you will get a popup message and won't be registered
+
+<h3 id="#Menu Page"> Menu page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/menu_page.PNG">
+
+<h3 id="#Product Page"> Products page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/products_page.PNG">
+Essentially main page where you can see products. You can also click on them to see their procedurally created page where you buy, delete or resupply them. 
+
+<h3 id="#Supplier Page"> Supplier page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/supplier_page.PNG">
+Where you add products. If you dont enter anything, don't enter 1 field, description too short, name too long, etc... then you get a popup error.
+
+<h3 id="#Cart Page"> Cart page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/supplier_page.PNG">
+Where you finalize orders and subtract amount bought to current stock in
+
+<h3 id="#Model Item Page"> Model Item page </h3>
+<img src="https://github.com/hoodlie/tkinter-GUI/blob/master/screenshots/mode_page.PNG">
+Where you buy, delete (X) or resupply items (+).
+
+<h2 id="#changelog"> Changelog </h2>
 
 Update 1.0 (22/12/2018)
 
