@@ -2,7 +2,7 @@
 
 <h2> Notes to reader </h2>
 
-Code partially derived from https://pythonprogramming.net/tkinter-depth-tutorial-making-actual-program/ and http://stackoverflow.com/questions/7546050/switch-between-two-frames-in-tkinter, however most of the code was made by me and only me :)
+Code partially derived from https://pythonprogramming.net/tkinter-depth-tutorial-making-actual-program/, http://stackoverflow.com/questions/7546050/switch-between-two-frames-in-tkinter and my GTIN-8 project, however most of the code was made by me and only me :)
 I used these resources for an introduction to tkinter and object oriented programming. 
 
 <h1> Introduction to Project </h1>
